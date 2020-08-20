@@ -1,0 +1,7 @@
+{
+  "startUrl": "https://vk.com/",
+  "browser": "chrome",
+  "timeout": 3,
+  "pollingTime": 100,
+  "downloadTimeout": 5
+}
